@@ -1,0 +1,19 @@
+{
+  "name": "tp-js-finalizado",
+  "version": "1.0.0",
+  "main": "archivo.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnabelCarranza/TP2-Js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnabelCarranza/TP2-Js/issues"
+  },
+  "homepage": "https://github.com/AnabelCarranza/TP2-Js#readme",
+  "description": ""
+}
